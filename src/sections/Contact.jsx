@@ -30,7 +30,7 @@ export default function Contact() {
                 <div className="mt-10 flex flex-wrap gap-4">
                     <a
                         href={`mailto:${email}?subject=Project%20Enquiry%20-%20PixelPilot%20Studio`}
-                        className="inline-flex items-center gap-2 rounded-full bg-white px-7 py-4 font-bold text-pilot-dark transition hover:bg-pilot-cyan"
+                        className="inline-flex items-center gap-2 rounded-full bg-white px-7 py-4 font-bold text-pilot-dark transition hover:bg-pilot-cyan hover:text-white"
                     >
                         <Mail size={18} /> Email Us <ArrowUpRight size={18} />
                     </a>
