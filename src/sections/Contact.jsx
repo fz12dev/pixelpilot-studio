@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { ArrowUpRight, Mail, MessageCircle } from 'lucide-react'
 
 export default function Contact() {
-  const email = 'hello@pixelpilotstudio.com'
+  const email = 'mohammedfaiz.webdev@gmail.com'
 
   return (
     <section id="contact" className="px-6 py-24 md:px-12 lg:px-20">
