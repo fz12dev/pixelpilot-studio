@@ -43,9 +43,6 @@ export default function Contact() {
           </a>
         </div>
 
-        <p className="mt-5 text-xs text-white/70">
-          Replace the sample email address with your real business email before publishing.
-        </p>
       </motion.div>
     </section>
   )
