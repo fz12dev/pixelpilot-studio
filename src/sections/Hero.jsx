@@ -27,7 +27,7 @@ function Hero() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.1 }}
-            className="max-w-3xl font-display text-5xl font-semibold leading-[1.08] tracking-tight text-pilot-light sm:text-6xl lg:text-7xl xl:text-8xl"
+            className="max-w-none font-display text-5xl font-semibold leading-[1.08] tracking-tight text-pilot-light sm:text-6xl lg:text-6xl xl:text-7xl"
           >
             We build
             <span className="block text-pilot-blue">digital</span>
